@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/i3rc.git]
+checkout = vcsh clone git@github.com:geoffcorey/i3rc.git i3rc
