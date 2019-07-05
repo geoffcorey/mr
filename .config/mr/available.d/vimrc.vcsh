@@ -1,2 +1,0 @@
-[$HOME/.config/vcsh/repo.d/vimrc.git]
-checkout = vcsh clone git@github.com:geoffcorey/vimrc.git vimrc 
